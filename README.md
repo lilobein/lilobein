@@ -27,8 +27,7 @@ DevOps / SRE
 
 Почта: dianasvalc@gmail.com
 
-###### Мой стек технологий и инструментов:
 Linux Bash Git Docker Kubernetes Terraform Ansible AWS/GCP GitLab CI GitHub Actions Prometheus Grafana Python Go
 
-p. s. в этом репозитории публикуются личные и учебные проекты
+###### p. s. в этом репозитории публикуются личные и учебные проекты
 
