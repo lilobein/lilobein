@@ -1,16 +1,34 @@
-## Hi there 👋
+## Привет, я Диана
+DevOps / SRE
+19 y.o. | 21 School & University | Linux | Infrastructure as Code | CI/CD
 
-<!--
-**lilobein/lilobein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Сейчас активно изучаю:
 
-Here are some ideas to get you started:
+- ОС: Linux (администрирование, сетевые настройки, bash-скрипты)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Контейнеризация: Docker
+
+- Оркестрация: Kubernetes
+
+- Инфраструктура как код: Terraform, Ansible
+
+- Непрерывная интеграция и доставка: GitLab CI/CD, GitHub Actions
+
+- Mониторинг: Prometheus, Grafana, ELK Stack
+
+#### Мои цели:
+- Получить глубокие практические навыки в построении отказоустойчивой и автоматизированной инфраструктуры.
+
+- Внедрять DevOps-культуру и SRE-практики в проектах.
+
+- Внести вклад в open-source проекты, связанные с инфраструктурой.
+
+#### Как со мной связаться:
+
+Почта: dianasvalc@gmail.com
+
+###### Мой стек технологий и инструментов:
+Linux Bash Git Docker Kubernetes Terraform Ansible AWS/GCP GitLab CI GitHub Actions Prometheus Grafana Python Go
+
+p. s. в этом репозитории публикуются личные и учебные проекты
+
